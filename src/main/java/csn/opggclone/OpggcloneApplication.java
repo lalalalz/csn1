@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OpggcloneApplication {
 
 	public static void main(String[] args) {
-	SpringApplication.run(OpggcloneApplication.class, args);  
+		SpringApplication.run(OpggcloneApplication.class, args);  
 	}
 
 }
